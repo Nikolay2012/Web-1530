@@ -1,0 +1,118 @@
+h1{
+    text-align: center;
+    font-size: 350%;
+    color: #00a69c;
+    text-shadow: 0.5px 0.5px 0.5px black;
+}
+h3{
+    font-size: 250%;
+    color: #00a69c;
+    text-shadow: 0.5px 0.5px 0.5px black;;
+}
+body{
+    background-image: url(image/fon6.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    /* background-position: center; */
+}
+.moveLeft{
+    position: absolute;
+    top: 45px;
+    left: 20px;
+}
+.moveLeft .image{
+    position: relative;
+    width: 50px;
+    height: 50px;
+    color: #00a69c;
+}
+.main-content{
+    display: flex;
+    flex-wrap: wrap;
+    width: 85%;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+.main-content div{
+    margin: 0 auto;
+    width: 400px;
+    height: 300px;
+}
+.text{
+    border-bottom: 5px solid #00a69c;
+}
+.text p{
+    width: 80%;
+    text-align: left;
+    margin-left:  10%;
+    color: black;
+    text-shadow: 1px 1px 2px white;
+    font-size: 120%;
+}
+.text p span{
+    font-size: 150%;
+}
+.img-ari{
+    background-image: url(image/foto/ari.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width: 450px;
+    border-radius: 10px;
+    background-color: tomato;
+}
+.img-ali{
+    background-image: url(image/foto/ali.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width: 450px;
+    border-radius: 10px;
+    background-color: tomato;
+}
+.img-artem{
+    background-image: url(image/foto/artem.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width: 450px;
+    border-radius: 10px;
+    background-color: tomato;
+}
+.img-mash{
+    background-image: url(image/foto/mash.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width: 450px;
+    border-radius: 10px;
+    background-color: tomato;
+}
+.img-dim{
+    background-image: url(image/foto/dim.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width: 450px;
+    border-radius: 10px;
+    background-color: tomato;
+}
+.img-dash{
+    background-image: url(image/foto/dash.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width: 450px;
+    border-radius: 10px;
+    background-color: tomato;
+}
+.img-kir{
+    background-image: url(image/foto/kirill.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width: 450px;
+    border-radius: 10px;
+    background-color: tomato;
+}
+.img-nik{
+    background-image: url(image/foto/nik.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width: 450px;
+    border-radius: 10px;
+    background-color: tomato;
+}
